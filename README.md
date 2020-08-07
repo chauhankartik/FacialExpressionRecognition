@@ -1,6 +1,6 @@
 # FacialExpressionRecognition
 
-![alt text](http://url/to/img.png)
+!(http://url/to/img.png)
 
 To use this repository you should have:
 
