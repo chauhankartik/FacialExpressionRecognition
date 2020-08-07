@@ -12,9 +12,10 @@ To use this repository you should have:
   
 1 - Download all the files on your PC. </br> 
 2 - Unzip the training and validation datasets. </br>
-3 - Changes the paths to harcascade face detector and traning data in Main.ipynb file according to your PC. <br>
-4 - Ensure that your web cam is working. </br>
-5 - You are good to go!!! </br>
+3 - Changes the path to harcascade face detector(frontal face default) in Main.ipynb. </br>
+4 - Change paths to traning data and validation data in Main.ipynb file according to your PC. <br>
+5 - Ensure that your web cam is working. </br>
+6 - You are good to go!!! Just run the notebook once.</br>
 
 
 ![Alt text](https://github.com/chauhankartik/FacialExpressionRecognition/blob/master/Images/Untitled2.png)
