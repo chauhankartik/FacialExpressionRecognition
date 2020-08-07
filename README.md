@@ -1,6 +1,6 @@
 # FacialExpressionRecognition
 
-![Alt text](relative/https://github.com/chauhankartik/FacialExpressionRecognition/blob/master/Images/Untitled.png?raw=true "Title")
+![Alt text](https://github.com/chauhankartik/FacialExpressionRecognition/blob/master/Images/Untitled.png)
 
 To use this repository you should have:
 
