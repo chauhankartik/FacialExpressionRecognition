@@ -1,6 +1,6 @@
 # FacialExpressionRecognition
 
-!(http://url/to/img.png)
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
 
 To use this repository you should have:
 
